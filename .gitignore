@@ -1,0 +1,9 @@
+./config
+RocksP2P
+.vscode
+config
+config/p2p
+RocksP2P.db
+*.db
+rp2p
+*.log
